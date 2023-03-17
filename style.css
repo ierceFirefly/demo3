@@ -1,0 +1,44 @@
+.body1{
+  background-image: linear-gradient(to right,purple,aqua);
+}
+.first1{
+  font-family: monospace;
+  font-weight: bolder;
+  text-align: center;
+  text-transform: capitalize;
+}
+.first2{
+  font-family: monospace;
+  font-weight: bolder;
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: 10px;
+}
+.input20{
+  font-family: monospace;
+  font-weight: lighter;
+  text-transform: capitalize;
+  font-style: italic;
+  font-size: larger;
+}
+.first33{
+  text-decoration: underline;
+  font-family: monospace;
+  font-weight: lighter;
+  text-transform: capitalize;
+  font-style: italic;
+  text-align: center;
+}
+
+
+    
+
+
+
+
+
+
+
+
+
+
